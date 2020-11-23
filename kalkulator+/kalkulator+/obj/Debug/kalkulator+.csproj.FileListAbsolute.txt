@@ -1,0 +1,10 @@
+C:\Users\Učenik 3\source\repos\kalkulator+\kalkulator+\bin\Debug\kalkulator+.exe.config
+C:\Users\Učenik 3\source\repos\kalkulator+\kalkulator+\bin\Debug\kalkulator+.exe
+C:\Users\Učenik 3\source\repos\kalkulator+\kalkulator+\bin\Debug\kalkulator+.pdb
+C:\Users\Učenik 3\source\repos\kalkulator+\kalkulator+\obj\Debug\kalkulator+.csprojAssemblyReference.cache
+C:\Users\Učenik 3\source\repos\kalkulator+\kalkulator+\obj\Debug\kalkulator_.Form1.resources
+C:\Users\Učenik 3\source\repos\kalkulator+\kalkulator+\obj\Debug\kalkulator_.Properties.Resources.resources
+C:\Users\Učenik 3\source\repos\kalkulator+\kalkulator+\obj\Debug\kalkulator+.csproj.GenerateResource.cache
+C:\Users\Učenik 3\source\repos\kalkulator+\kalkulator+\obj\Debug\kalkulator+.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 3\source\repos\kalkulator+\kalkulator+\obj\Debug\kalkulator+.exe
+C:\Users\Učenik 3\source\repos\kalkulator+\kalkulator+\obj\Debug\kalkulator+.pdb
